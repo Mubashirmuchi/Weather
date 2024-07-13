@@ -19,21 +19,25 @@ Installation
    git clone <repository-url>
    Replace <repository-url> with the URL of your Git repository.
 
-2. Navigate to the client directory and install dependencies:
-   cd client
-   npm install
 
-3. Start the client development server:
-   npm run dev
-   The client application will be available at http://localhost:5173.
-
-4. Navigate to the server directory and install dependencies:
+2. Navigate to the server directory and install dependencies:
    cd server
    npm install
 
-5. Start the server:
+3. Start the server:
    npm run dev
    The server will be available at http://localhost:3000/api.
+
+
+4. Navigate to the client directory and install dependencies:
+   cd client
+   npm install
+
+5. Start the client development server:
+   npm run dev
+   The client application will be available at http://localhost:5173.
+ 
+client : http://localhost:5173
 
 API Endpoints
 
